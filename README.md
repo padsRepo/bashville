@@ -1,2 +1,2 @@
 # bashville
-My collection of Bash Scripts.
+Welcome to Bashville! - The town of bash scripts
